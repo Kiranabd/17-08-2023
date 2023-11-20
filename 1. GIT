@@ -84,10 +84,10 @@ git show commit_id
 BRANCHES:
 It is a individaual line of developemt.
 developers write the code on branches.
-initally baraches we create on git.
+initally branches we create on git.
 after write source code on git we push to github.
-Default barnch is Master.
-Note: when we do a iniatl commit the only default branch will be created.
+Default branch is Master.
+Note: when we do a initial commit the only default branch will be created.
 
 Dev -- > Git (Movies branch) -- > code -- > github
 
@@ -403,9 +403,9 @@ HISTORY:
 ==================================================================
 
 MERGE CONFLICT:
-when we try to merege 2 branches with same file and Different content
+when we try to merge 2 branches with same file and Different content
 then conflict will raise.
-so we need to reslove the conflict manually
+so we need to resolve the conflict manually
 
 
 CHERRY-PICK: 
